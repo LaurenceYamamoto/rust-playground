@@ -1,0 +1,2 @@
+[rustup commands]
+rustup update

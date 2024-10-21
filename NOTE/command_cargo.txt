@@ -1,0 +1,6 @@
+[Cargo Commands]
+cargo new <project-name>
+cargo build
+cargo run：ビルドと実行
+cargo check：コードのチェック
+cargo update：依存パッケージを更新し、Cargo.lockを更新する
